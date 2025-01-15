@@ -159,7 +159,7 @@ nav {
 .header__container h1 {
   position: relative;
   isolation: isolate;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 800;
   line-height: 5rem;
   color: var(--secondary-color);
@@ -172,7 +172,7 @@ nav {
   content: "AUMENTE SUA FORÇA";
   top: -5rem;
   left: -5rem;
-  font-size: 8rem;
+  font-size: 6rem;
   font-weight: 800;
   line-height: 10rem;
   color: rgba(0, 0, 0, 0.05);
